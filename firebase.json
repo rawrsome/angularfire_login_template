@@ -1,0 +1,9 @@
+{
+  "firebase": "angularfire-ecom-01",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
